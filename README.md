@@ -1,8 +1,12 @@
-# HealthPedia AI: End-to-End Medical Chatbot**
+# Healthpedia AI: Your Wellness Companion
+
+<p align="center"> <img src="imgs/Medical Bot.png" alt="Healthpedia_AI" width="300" height="300"> </p>
 
 ## Project Overview:
 
 HealthPedia AI is a comprehensive medical chatbot designed to answer a wide range of disease and medicine-related questions. It utilizes the extensive knowledge base provided by 'The GALE ENCYCLOPEDIA of MEDICINE' and employs advanced technologies to deliver accurate and insightful responses.
+
+<p align="center"> <img src="imgs/HealthpediaAI.png" alt="project_output" width="80%" height="80%"> </p>
 
 ## Tech Stack:
 
@@ -14,6 +18,8 @@ HealthPedia AI is a comprehensive medical chatbot designed to answer a wide rang
 - **HuggingFace embeddings:** Enhances the language model capabilities.
 
 ## Project Flow:
+
+<p align="center"> <img src="imgs/medbot.drawio.png" alt="Project_Architecture" width="50%" height="50%"> </p>
 
 1. **Load Corpus:** Import the contents of 'The GALE ENCYCLOPEDIA of MEDICINE'.
 2. **Corpus Chunking:** Divide the corpus into manageable chunks for efficient processing.
